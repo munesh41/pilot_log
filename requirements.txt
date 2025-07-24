@@ -1,0 +1,13 @@
+django
+djangorestframework
+psycopg
+Faker
+django-cors-headers
+redis
+django-debug-toolbar
+debugpy
+django_extensions
+pytest-django
+ijson
+pandas
+xlsxwriter
