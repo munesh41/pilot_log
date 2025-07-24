@@ -1,11 +1,6 @@
-# Standard Library
 import json
 from datetime import datetime
-
-# Django Stuff
 from django.db import transaction
-
-# Local Folder
 from .models import Aircraft, Flight
 
 
